@@ -45,9 +45,14 @@ body {
     align-items: center;
     flex-grow: 1;
 }
+.multiple-borders {
+    
+   }
+
 .details-image {
     width: 100vw;
-    height: 70vw;    
+    height: 70vw;
+      
 }
 .details-title {
     display: block;
@@ -55,7 +60,9 @@ body {
     font-size: x-large;
     text-transform: lowercase; color: rgb(255, 255, 255);
     font-family: protos;
+    
 }
+
 .thumbnails-list {
     display: flex;
     flex-wrap: wrap;
@@ -66,7 +73,7 @@ body {
     padding-left: 0;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 50px;
+    
     
 }
 .thumbnails-item {
